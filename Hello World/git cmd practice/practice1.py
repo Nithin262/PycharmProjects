@@ -1,3 +1,4 @@
 print("hello world")
 name = "Nithin"
-print(name)
+print(name, 'how are you?')
+
